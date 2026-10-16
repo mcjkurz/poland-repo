@@ -116,3 +116,5 @@ To retheme the deck, edit the variables on `:root` (and the `#stage.dark` block 
 ## Fonts
 
 The bundled fonts are under the [SIL Open Font License 1.1](https://openfontlicense.org): [Inter](https://github.com/rsms/inter), [Instrument Serif](https://github.com/Instrument/instrument-serif) and [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono). They cover Latin text. Chinese and other scripts fall back to fonts installed on the system (PingFang / Noto / Songti), which you can change in the `--sans`, `--serif` and `--cjk` variables.
+
+Hello
